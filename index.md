@@ -25,7 +25,8 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-<a href="/m.json">Visit W3C HTML</a>
+<a href="/m.json">JSON</a>
+<a href="/miaomiao.txt">TXT</a>
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Jekyll Themes
